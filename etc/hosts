@@ -1,0 +1,34 @@
+#
+# /etc/hosts: static lookup table for host names
+#
+
+#<ip-address>	<hostname.domain.org>	<hostname>
+
+#Local Network
+127.0.0.1		localhost.localdomain	localhost
+10.78.92.11		aries.jets.pc		aries
+10.78.92.21		janny.jets.pc		janny
+
+#Alternate Mozilla Updates
+202.177.202.154         releases.mozilla.org
+
+#VideoPort Network
+192.168.61.178          vp78.pca.ru             vp78
+192.168.61.200          msk1.pca.ru             msk1
+192.168.61.200          msk3.pca.ru             msk3
+192.168.61.200          support.msk3.pca.ru
+192.168.61.200          sm.msk3.pca.ru
+192.168.61.12           dront.pca.ru            dront
+
+#MLDonkey load speedup
+127.0.0.1               mldonkey.sf.net
+127.0.0.1               www.mldonkey.org
+127.0.0.1               www.mldonkey.net
+
+#Quake 4 license server
+127.0.0.1               q4master.idsoftware.com
+#Prey license server
+127.0.0.1               preymaster.humanhead.com
+
+# End of file
+

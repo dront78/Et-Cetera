@@ -1,0 +1,18 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on seperate lines
+#
+SDL_AUDIODRIVER=alsa
+GREP_OPTIONS="--color=auto"
+GREP_COLOR="1;32"
+SAL_USE_VCLPLUGIN="gtk"
+XLIB_SKIP_ARGB_VISUALS=1
+FIREFOX_DSP="aoss"
+GTK_IM_MODULE="xim"
+EDITOR="vim"
+MOZ_DISABLE_PANGO=1
+GDK_NATIVE_WINDOWS=1
+G_BROKEN_FILENAMES=1
+LESS='-R'
+

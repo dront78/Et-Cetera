@@ -1,0 +1,8 @@
+CONNECTION="ethernet-iproute"
+DESCRIPTION="A basic static ethernet connection using iproute"
+INTERFACE="eth0"
+IP="static"
+ADDR="10.78.92.11"
+CIDR="26"
+GATEWAY="10.78.92.4"
+DNS=("195.34.32.116 212.188.4.10 10.78.92.4")

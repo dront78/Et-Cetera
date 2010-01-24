@@ -1,0 +1,4 @@
+CONNECTION="ethernet-iproute"
+DESCRIPTION="A basic dhcp ethernet connection using iproute"
+INTERFACE="rndis0"
+IP="dhcp"

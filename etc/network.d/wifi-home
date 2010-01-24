@@ -1,0 +1,10 @@
+CONNECTION="wireless"
+DESCRIPTION="A wpa_supplicant configuration based wireless connection"
+INTERFACE="wlan0"
+SECURITY="wpa-config"
+WPA_CONF="/etc/wpa_supplicant.conf"
+IP="static"
+ADDR="10.78.92.12"
+CIDR="26"
+GATEWAY="10.78.92.4"
+DNS=("195.34.32.116 212.188.4.10 10.78.92.4")

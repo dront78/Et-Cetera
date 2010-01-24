@@ -1,0 +1,4 @@
+CONNECTION="openvpn"
+INTERFACE="ignore"
+OVPN_CONFIG="/root/vpn/visicron.ovpn"
+OVPN_PID_FILE="/tmp/openvpn.visicron.pid"
